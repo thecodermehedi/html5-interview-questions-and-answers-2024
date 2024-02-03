@@ -99,3 +99,29 @@
   > Answer: Using the actual heading tag instead of other tag is preferred for semantic and seo purposes.
 - Question: How many times should the h1 tag be used in a webpage and why?
   > Answer: We should use the h1 tag once per webpage for the main heading to maintain proper document structure and SEO.
+- Question: **How does the `<video>` element work in HTML5?**
+  > Answer: The `<video>` element allows embedding video content directly in a webpage without the need for external plugins.
+- Question: **Explain the purpose of the `<main>` element in HTML5.**
+  > Answer: The `<main>` element represents the main content of a document, excluding headers, footers, and sidebars.
+- Question: **What is the purpose of the `<details>` and `<summary>` elements?**
+  > Answer: The `<details>` element creates a disclosure widget, and the `<summary>` element provides a visible label or heading for the widget.
+- Question: **What is the purpose of the `<article>` and `<section>` elements?**
+  > Answer: `<article>` is used to define a self-contained piece of content, while `<section>` is used to group related content within a document.
+- Question: **Explain the importance of the `<meta charset="UTF-8">` tag.**
+  > Answer: The `<meta charset="UTF-8">` tag sets the character encoding of the document to UTF-8, ensuring proper text rendering and language support.
+- Question: **How does the `<progress>` element work in HTML5?**
+  > Answer: The `<progress>` element represents the progress of a task. It is often used to show the completion status of a download or upload.
+- Question: **What is the purpose of the `<nav>` element in HTML5?**
+  > Answer: The `<nav>` element is used to define a set of navigation links, providing a semantic way to structure navigation menus.
+- Question: **Explain the role of the `<figure>` and `<figcaption>` elements.**
+  > Answer: `<figure>` is used to encapsulate media content, and `<figcaption>` provides a caption for the content within the `<figure>` element.
+- Question:**How can you embed audio content using HTML5?**
+  > Answer: - Audio content can be embedded using the `<audio>` element, specifying the source and providing controls for playback.
+- Question: **What is the purpose of the `<datalist>` element?**
+  > Answer: The `<datalist>` element contains a set of `<option>` elements that represent the permissible options available to users in other controls.
+- Question: **How does the `placeholder` attribute enhance form elements in HTML5?**
+  > Answer: he `placeholder` attribute provides a hint or example text within a form field, guiding users on the expected input.
+- Question: **What is the purpose of the `<time>` element in HTML5?**
+  > Answer: The `<time>` element represents a specific period in time or a range of time, providing semantic markup for date and time information.
+- Question: **How can you create a hyperlink that opens in a new tab or window?**
+  > Answer: Adding the `target="_blank"` attribute to an `<a>` element opens the linked page in a new tab or window.
